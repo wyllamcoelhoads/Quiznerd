@@ -1,0 +1,2 @@
+# Quiznerd
+Jogo desenvolvido c++
